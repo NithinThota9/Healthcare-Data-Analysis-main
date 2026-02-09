@@ -12,8 +12,7 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 1. Key Technologies and Skills
 2. Features
 3. Contributing
-4. License
-5. Contact
+4. Contact
 
 <br />
 
@@ -93,8 +92,6 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 <br />
-
-
 <br />
 
 **Contact**
