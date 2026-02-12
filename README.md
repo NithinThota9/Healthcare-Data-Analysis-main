@@ -98,5 +98,3 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 📧 Email: nithinthota999@gmail.com 
 
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-
